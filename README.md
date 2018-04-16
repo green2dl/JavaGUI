@@ -1,2 +1,2 @@
 # JavaGUI
-CS159 Git/GUI Lab
+CS159 GitHub/GUI Into Lab
